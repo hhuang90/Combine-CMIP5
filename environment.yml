@@ -1,0 +1,10 @@
+name: Combine-CMIP5
+
+dependencies:
+  - Cython=0.29
+  - jupyterlab=1.2
+  - matplotlib=3.1
+  - numpy=1.18
+  - python=3.8
+  - scipy=1.4
+  - seaborn=0.10
